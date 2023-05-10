@@ -18,3 +18,14 @@ Some examples on how to train deep learning models using Google Colab
 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arodriguez99/ML_DL/blob/master/ImageClassificationCNN2.ipynb)
 
+- 5 - Image detection (not mine)
+
+    Extracted from: https://github.com/bonastreyair/deep_learning_examples/blob/master/4%20-%20Deep%20Learning%20-%20Object%20Detection.ipynb
+
+- 6 - Image detection YOLOv3
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arodriguez99/ML_DL/blob/master/ImageDetection.ipynb)
+
+- 7 - Image segmentation
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arodriguez99/ML_DL/blob/master/ImageSegmentation.ipynb)
