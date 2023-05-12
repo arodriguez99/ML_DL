@@ -8,7 +8,7 @@ Some examples on how to train machine and deep learning models using Google Cola
 
 - 2 - Simple regression + MNIST
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bonastreyair/deep_learning_examples/blob/master/1%20-%20Deep%20Learning%20-%20Regressor.ipynb) Extracted from [here](https://github.com/bonastreyair/deep_learning_examples/blob/master/1%20-%20Deep%20Learning%20-%20Regressor.ipynb) 
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arodriguez99/ML_DL/blob/master/SimpleRegression.ipynb) Based on [here](https://github.com/bonastreyair/deep_learning_examples/blob/master/1%20-%20Deep%20Learning%20-%20Regressor.ipynb) 
 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arodriguez99/ML_DL/blob/master/FashionMNIST.ipynb) Extracted from [here](https://github.com/bonastreyair/deep_learning_examples/blob/master/2%20-%20Deep%20Learning%20-%20Neural%20Network%20-%20Classifier%20(Fashion%20MNIST).ipynb)
 
