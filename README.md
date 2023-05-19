@@ -35,3 +35,7 @@ Some examples on how to train machine and deep learning models using Google Cola
 - 8 - Transformers
 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EjbejaranosAI/AI_trends_2023/blob/main/Transformers_can_do_anything.ipynb) Extracted from [here](https://github.com/EjbejaranosAI/AI_trends_2023/blob/main/Transformers_can_do_anything.ipynb)
+
+- Ejercicio final
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arodriguez99/ML_DL/blob/master/Ejercicio.ipynb)
