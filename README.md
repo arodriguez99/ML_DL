@@ -1,6 +1,7 @@
 # ML_DL
 
-Some examples on how to train machine and deep learning models using Google Colab
+Some examples on how to train machine and deep learning models using Google Colab.
+Repository made for the students of the master in industry 4.0 of the UPC School.
 
 - 1 - Initial example
 
