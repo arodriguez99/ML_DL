@@ -3,7 +3,11 @@
 Some examples on how to train machine and deep learning models using Google Colab.
 Repository made for the students of the master in industry 4.0 of the UPC School.
 
-- Ejercicio inicial
+- 0 - Ejemplo inicial
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arodriguez99/ML_DL/blob/master/InitialExample.ipynb)
+
+- 1 - Ejercicio inicial
 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arodriguez99/ML_DL/blob/master/EjercicioInicial.ipynb)
 
