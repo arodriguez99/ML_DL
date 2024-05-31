@@ -2,9 +2,9 @@
 
 Some examples on how to train machine and deep learning models using Google Colab
 
-- 1 - Initial example
+- Ejercicio inicial
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arodriguez99/ML_DL/blob/master/InitialExample.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arodriguez99/ML_DL/blob/master/EjercicioInicial.ipynb)
 
 - 2 - Simple regression + MNIST
 
@@ -38,4 +38,4 @@ Some examples on how to train machine and deep learning models using Google Cola
 
 - Ejercicio final
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arodriguez99/ML_DL/blob/master/Ejercicio.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arodriguez99/ML_DL/blob/master/EjercicioFinal.ipynb)
